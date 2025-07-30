@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f5;
+  text-align: center;
+  padding: 40px;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+button {
+  margin: 10px 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+ul li {
+  background-color: #e0e0ff;
+  margin: 5px;
+  padding: 8px;
+  border-radius: 5px;
+}
